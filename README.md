@@ -1,2 +1,1 @@
 # ActividadGit
-Chupapi munyayo
