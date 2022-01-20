@@ -11,7 +11,9 @@ public class HolaMundo {
 
 
     public static void main(String[] args) {
+        String texto = "a";
         System.out.println("soy lazofra");
+        System.out.println(texto);
     }
 
 }
